@@ -1,2 +1,5 @@
 # stepikselenium
-home work selenium+python
+home work selenium+python .
+https://stepik.org/course/575 .
+
+
